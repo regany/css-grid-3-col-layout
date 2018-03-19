@@ -7,3 +7,5 @@ Responsive 3-column starter layout using CSS Grid.
 * At large desktop resolutions, maintains auto margins around the content (default max-width 1396px).
   * Background colours for header/footer expand whole viewport width
 * At small resolution, footer links will 'pop' above the copyright notice.
+
+![alt text](./example/3-col-responsive.gif)
